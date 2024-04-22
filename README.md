@@ -11,8 +11,8 @@ I am competent in Web2 Technologies and Web3 Technologies.
 
 - 🔭 I’m currently working on:
   - **[Summary](https://createsummary.com "Summary"): An AI search platform that helps make search more efficient.**,
-  - **Nine**
-  - **Feedback**.
+  - **Nine: (Work in Progrss)**
+  - **Feedback: (Work in Progress)**.
 - 🌱 I’m currently learning Rust and Zero-Knowledge Proofs
 - 🤔 I’m looking for help with how to **build an Operating System.**
 - ⚡ Philosophy: What can be made simple should not be made unnecessarily complex.
